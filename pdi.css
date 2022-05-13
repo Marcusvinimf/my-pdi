@@ -1,0 +1,84 @@
+.primeiro-container{
+    margin-bottom: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo-primario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 37%;
+}
+
+.titulo-secundario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 17%;
+}
+
+.lista{
+    width: 90%;
+    margin: 8px 5px;
+    border-style: solid;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+}
+
+.segundo-container{
+    margin: 40px;
+}
+
+.lista-1{
+    display: flex;
+    margin: 10px;
+    border-style: solid;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-bottom-width: 1px;
+}
+
+.lista-2{
+    display: flex;
+    margin: 10px;
+    border-style: solid;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-bottom-width: 1px;
+}
+
+.lista-3{
+    display: flex;
+    margin: 10px;
+    border-style: solid;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-bottom-width: 1px;
+}
+
+.lista-4{
+    display: flex;
+    margin: 10px;
+}
+
+.itens-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size: 17px;
+    width: 20%;
+}
+
+.itens{
+    display: flex;
+    margin: 5px;
+    justify-content: end;
+    align-items: flex-end;
+    max-width: 75%;
+}
